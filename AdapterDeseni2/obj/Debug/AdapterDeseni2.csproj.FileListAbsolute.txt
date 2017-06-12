@@ -1,0 +1,6 @@
+c:\users\kuzuryuse\documents\visual studio 2012\Projects\AdapterDeseni2\AdapterDeseni2\bin\Debug\AdapterDeseni2.exe.config
+c:\users\kuzuryuse\documents\visual studio 2012\Projects\AdapterDeseni2\AdapterDeseni2\bin\Debug\AdapterDeseni2.exe
+c:\users\kuzuryuse\documents\visual studio 2012\Projects\AdapterDeseni2\AdapterDeseni2\bin\Debug\AdapterDeseni2.pdb
+c:\users\kuzuryuse\documents\visual studio 2012\Projects\AdapterDeseni2\AdapterDeseni2\obj\Debug\AdapterDeseni2.csprojResolveAssemblyReference.cache
+c:\users\kuzuryuse\documents\visual studio 2012\Projects\AdapterDeseni2\AdapterDeseni2\obj\Debug\AdapterDeseni2.exe
+c:\users\kuzuryuse\documents\visual studio 2012\Projects\AdapterDeseni2\AdapterDeseni2\obj\Debug\AdapterDeseni2.pdb
